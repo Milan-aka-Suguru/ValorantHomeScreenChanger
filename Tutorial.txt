@@ -1,0 +1,5 @@
+line1:Path of the desired homepage or a folder if random .mp4 as homepage from the folder
+line2: change interval, can be 0.1 and 200 too 
+line3:Path to the default homepage (locate valorant, then go to \live\ShooterGame\Content\Movies\Menu and the homescreen mp4's name
+
+ps: there might be a cpu leak if you refresh settings too much, silly me :3
